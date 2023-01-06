@@ -1,4 +1,4 @@
-export class UserDto {
+export class UserEntity {
   id: string;
   username: string;
   age: number;
